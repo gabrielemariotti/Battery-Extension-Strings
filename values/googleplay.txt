@@ -1,0 +1,25 @@
+<b>DashClock Battery Extension is an extension for DashClock Widget for Android 4.2+</b>
+Displays  information about your device's battery.
+<br/>
+
+<b>Features:</b>
+• Displays current battery level
+• Displays charging state (Discharging, Charging, Not Charging, Fully charged)
+• Displays the charging power source (AC, USB, Wireless)
+• Displays battery temperature (Celsius)
+• Displays battery health
+• Displays battery voltage (mV)
+<br/>
+<b>DashClock Battery Extension requires DashClock Widget by Roman Nurik:</b>
+https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+
+Version XXX
+• Add: XXXXXX translation
+
+Version 1.6.1
+• Add: Spanish translation
+
+Version 1.6
+• Add: Real time updates in user preferences
+• Add: Italian translation
