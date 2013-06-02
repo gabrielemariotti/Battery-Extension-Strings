@@ -1,0 +1,21 @@
+<b>DashClock Battery Extension è una estensione per il DashClock Widget per Android 4.2</b>
+Visualizza le informazioni della batteria nel DashClock.
+<br/>
+
+<b>Visualizza le seguenti informazioni:</b>
+• Livello corrente della batteria
+• Livello di carica (In carica, completamente carica, Non in carica)
+• Tipo di alimentazione (AC, USB, Wireless)
+• Salute della batteria
+• Temperatura 
+• Voltaggio
+<br/>
+<b>DashClock Battery Extension richiede il DashClock Widget di Roman Nurik:</b> https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+
+Versione 1.6.1
+• Aggiunta traduzione in spagnolo
+
+Versione 1.6
+• Aggiunta la possibilità di abilitare o disabilitare l'aggiornamento continuo dei dati nelle impostazioni
+• Aggiunta traduzione in italiano
