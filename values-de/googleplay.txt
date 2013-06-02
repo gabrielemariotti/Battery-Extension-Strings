@@ -1,0 +1,26 @@
+<b>Die DashClock Batterie Erweiterung ist eine Erweiterung für das DashClock Widget für Android 4.2+</b>
+Zeigt informationen über die Batterie des Gerätes.
+<br/>
+
+<b>Features:</b>
+• Zeigt aktuellen Batterie Status
+• Zeigt Ladezustand (Entladen, Laden, Nicht am Laden, Vollgeladen)
+• Zeigt die Stromquelle an (Steckdose, USB, Kabellos)
+• Zeigt die Batterie Temperatur an
+• Zeigt den Batterie Gesundheitsstatus an
+• Zeigt die Batterie Spannung an (mV)
+<br/>
+<b>Die DashClock Batterie Erweiterung benötigt das DashClock Widget von Roman Nurik:</b>
+https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+
+
+Version XXX
+• Hinzugefügt: Deutsche Übersetzung
+
+Version 1.6.1
+• Hinzugefügt: Spanische Übersetzung
+
+Version 1.6
+• Hinzugefügt: Echtzeit Updates in den Einstellungen
+• Hinzugefügt: Italienische Übersetzung
