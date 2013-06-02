@@ -1,0 +1,23 @@
+<b>Extensión de Batería es una extensión para el Widget DashClock en Android 4.2 o superior</b>
+Muestra información acerca de la batería de tu dispositivo.
+<br/>
+
+<b>Características:</b>
+• Muestra el nivel de carga actual de la batería
+• Muestra el estado de carga (descarga, carga, no se está cargando, carga completa)
+• Muestra la fuente de alimentación de carga (CA, USB, Wireless)
+• Muestra la temperatura de la batería (Grados Celsius)
+• Visualización del estado de la batería 
+• Muestra la tensión de la batería (mV)
+<br/>
+<b>Extensión de Batería requiere DashClock Widget de Roman Nurik:</b> https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
+
+Version XXXX
+• Agregado: traducción al xxxxx
+
+Version 1.6.1
+• Agregado: traducción al español
+
+Version 1.6
+• Agregado: actualización en tiempo real en las preferencias de usuario
+• Agregado: traducción al italiano
