@@ -41,7 +41,7 @@
     <string name="pref_chargeSummary">현재 전원 종류 정보 표시</string>
     
     <string name="pref_temp">온도</string>
-    <string name="pref_tempSummary">현대 온도 정보 표시</string>
+    <string name="pref_tempSummary">현재 온도 정보 표시</string>
     
     <string name="pref_voltage">전압</string>
     <string name="pref_voltageSummary">전압 정보 표시</string>
