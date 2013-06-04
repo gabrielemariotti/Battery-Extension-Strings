@@ -17,6 +17,9 @@ https://play.google.com/store/apps/details?id=net.nurik.roman.dashclock
 Version XXX
 • Add: XXXXXX translation
 
+Version 1.6.3
+• Fixed issue when power source is wireless
+
 Version 1.6.2
 • Add: German translation
 • Add: Korean translation
